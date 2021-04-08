@@ -26,14 +26,11 @@ List the grade for each assignment/test for each student
 First, let the user select from a list of students by number, then show the attendance for each date for that student
 ## Select 4
 First, let the user select from a list of assignments by number, then let them give a grade for each student one by one. For grades use percentages like 87.5. They can be strings
-## Select 
+## Select 5
+First, let the user select from a list of class dates by number, then let them give an attendance ("p" or "a") for each student one by one.
 
 # Assignment Notes: 
 Now that we are doing more complicated assignments, it is really important to plan out your logic before you start programming.  Write comments describing what needs to be done in the correct order (like pseudo code).  Then read over your comments and see if the logic makes sense.  Only when you are satisfied with your plan should you start actually coding.  Believe me, it will be quicker in the end this way.
 
-Some things to think about
-1. Are you in danger of having an infinite loop?
-2. How do you want to display the partial word to the user?
-3. Are you keeping track of letters already used?  Don't penalize the player if they forget what they've already guessed.
-4. Feel free to add functions to the class, but make sure to implement each one that is there.
+See the example output to help you with the interface
 
