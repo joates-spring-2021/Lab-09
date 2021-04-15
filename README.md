@@ -23,7 +23,7 @@ List the full names of all students
 ## Select 2
 List the grade for each assignment/test for each student
 ## Select 3
-First, let the user select from a list of students by number, then show the attendance for each date for that student
+First, let the user select from a list of students by number, then show the attendance ("Present" or "Absent") for each date for that student
 ## Select 4
 First, let the user select from a list of assignments by number, then let them give a grade for each student one by one. For grades use percentages like 87.5. They can be strings
 ## Select 5
