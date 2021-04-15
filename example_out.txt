@@ -29,156 +29,6 @@ What do you want to do?
 5 - Take attendance
 Q - Quit
 
-> 2
-Paul McCartney
-Assignment 1: 
-Assignment 2: 
-Assignment 3: 
-Assignment 4: 
-Midterm: 
-Final: 
-
-John Lennon
-Assignment 1: 
-Assignment 2: 
-Assignment 3: 
-Assignment 4: 
-Midterm: 
-Final: 
-
-George Harrison
-Assignment 1: 
-Assignment 2: 
-Assignment 3: 
-Assignment 4: 
-Midterm: 
-Final: 
-
-Ringo Starr
-Assignment 1: 
-Assignment 2: 
-Assignment 3: 
-Assignment 4: 
-Midterm: 
-Final: 
-
-Robert Plant
-Assignment 1: 
-Assignment 2: 
-Assignment 3: 
-Assignment 4: 
-Midterm: 
-Final: 
-
-Jimmy Page
-Assignment 1: 
-Assignment 2: 
-Assignment 3: 
-Assignment 4: 
-Midterm: 
-Final: 
-
-John Bonham
-Assignment 1: 
-Assignment 2: 
-Assignment 3: 
-Assignment 4: 
-Midterm: 
-Final: 
-
-John Paul Jones
-Assignment 1: 
-Assignment 2: 
-Assignment 3: 
-Assignment 4: 
-Midterm: 
-Final: 
-
-Trey Anastasio
-Assignment 1: 
-Assignment 2: 
-Assignment 3: 
-Assignment 4: 
-Midterm: 
-Final: 
-
-Jon Fishman
-Assignment 1: 
-Assignment 2: 
-Assignment 3: 
-Assignment 4: 
-Midterm: 
-Final: 
-
-Mike Gordon
-Assignment 1: 
-Assignment 2: 
-Assignment 3: 
-Assignment 4: 
-Midterm: 
-Final: 
-
-Page McConnell
-Assignment 1: 
-Assignment 2: 
-Assignment 3: 
-Assignment 4: 
-Midterm: 
-Final: 
-
-
-What do you want to do?
-1 - List all students
-2 - List all grades
-3 - List attendance
-4 - Submit a grade
-5 - Take attendance
-Q - Quit
-
-> 3
-Which student?
-1 - Paul McCartney
-2 - John Lennon
-3 - George Harrison
-4 - Ringo Starr
-5 - Robert Plant
-6 - Jimmy Page
-7 - John Bonham
-8 - John Paul Jones
-9 - Trey Anastasio
-10 - Jon Fishman
-11 - Mike Gordon
-12 - Page McConnell
-
-> 1
-Paul McCartney
-January 25: 
-February 1: 
-February 8: 
-February 15: 
-February 22: 
-March 1: 
-March 8: 
-March 15: 
-March 22: 
-March 29: 
-April 5: 
-April 12: 
-April 19: 
-April 26: 
-May 3: 
-May 10: 
-
-
-
-What do you want to do?
-1 - List all students
-2 - List all grades
-3 - List attendance
-4 - Submit a grade
-5 - Take attendance
-Q - Quit
-
 > 4
 Which assignment?
 1 - Assignment 1
@@ -267,6 +117,199 @@ Student Jon Fishman (p/a) > p
 Student Mike Gordon (p/a) > p
 
 Student Page McConnell (p/a) > p
+
+
+What do you want to do?
+1 - List all students
+2 - List all grades
+3 - List attendance
+4 - Submit a grade
+5 - Take attendance
+Q - Quit
+
+> 3
+Which student?
+1 - Paul McCartney
+2 - John Lennon
+3 - George Harrison
+4 - Ringo Starr
+5 - Robert Plant
+6 - Jimmy Page
+7 - John Bonham
+8 - John Paul Jones
+9 - Trey Anastasio
+10 - Jon Fishman
+11 - Mike Gordon
+12 - Page McConnell
+
+> 1
+Paul McCartney
+January 25: Present
+February 1: 
+February 8: 
+February 15: 
+February 22: 
+March 1: 
+March 8: 
+March 15: 
+March 22: 
+March 29: 
+April 5: 
+April 12: 
+April 19: 
+April 26: 
+May 3: 
+May 10: 
+
+
+
+What do you want to do?
+1 - List all students
+2 - List all grades
+3 - List attendance
+4 - Submit a grade
+5 - Take attendance
+Q - Quit
+
+> 3
+Which student?
+1 - Paul McCartney
+2 - John Lennon
+3 - George Harrison
+4 - Ringo Starr
+5 - Robert Plant
+6 - Jimmy Page
+7 - John Bonham
+8 - John Paul Jones
+9 - Trey Anastasio
+10 - Jon Fishman
+11 - Mike Gordon
+12 - Page McConnell
+
+> 4
+Ringo Starr
+January 25: Absent
+February 1: 
+February 8: 
+February 15: 
+February 22: 
+March 1: 
+March 8: 
+March 15: 
+March 22: 
+March 29: 
+April 5: 
+April 12: 
+April 19: 
+April 26: 
+May 3: 
+May 10: 
+
+
+What do you want to do?
+1 - List all students
+2 - List all grades
+3 - List attendance
+4 - Submit a grade
+5 - Take attendance
+Q - Quit
+
+> 2
+Paul McCartney
+Assignment 1: 87.9
+Assignment 2: 
+Assignment 3: 
+Assignment 4: 
+Midterm: 
+Final: 
+
+John Lennon
+Assignment 1: 76
+Assignment 2: 
+Assignment 3: 
+Assignment 4: 
+Midterm: 
+Final: 
+
+George Harrison
+Assignment 1: 89.9
+Assignment 2: 
+Assignment 3: 
+Assignment 4: 
+Midterm: 
+Final: 
+
+Ringo Starr
+Assignment 1: 43.8
+Assignment 2: 
+Assignment 3: 
+Assignment 4: 
+Midterm: 
+Final: 
+
+Robert Plant
+Assignment 1: 67
+Assignment 2: 
+Assignment 3: 
+Assignment 4: 
+Midterm: 
+Final: 
+
+Jimmy Page
+Assignment 1: 78
+Assignment 2: 
+Assignment 3: 
+Assignment 4: 
+Midterm: 
+Final: 
+
+John Bonham
+Assignment 1: 89
+Assignment 2: 
+Assignment 3: 
+Assignment 4: 
+Midterm: 
+Final: 
+
+John Paul Jones
+Assignment 1: 90
+Assignment 2: 
+Assignment 3: 
+Assignment 4: 
+Midterm: 
+Final: 
+
+Trey Anastasio
+Assignment 1: 98
+Assignment 2: 
+Assignment 3: 
+Assignment 4: 
+Midterm: 
+Final: 
+
+Jon Fishman
+Assignment 1: 87
+Assignment 2: 
+Assignment 3: 
+Assignment 4: 
+Midterm: 
+Final: 
+
+Mike Gordon
+Assignment 1: 76
+Assignment 2: 
+Assignment 3: 
+Assignment 4: 
+Midterm: 
+Final: 
+
+Page McConnell
+Assignment 1: 65
+Assignment 2: 
+Assignment 3: 
+Assignment 4: 
+Midterm: 
+Final: 
 
 
 What do you want to do?
